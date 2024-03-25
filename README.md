@@ -28,3 +28,7 @@ In the "slides" folder, you will find the slides of the course.
 
 - [Iman Mohammadi](https://github.com/Imanm02)
 - [Moeein Aali](https://github.com/moeeinaali)
+- [Amirhossein Souri](https://github.com/Amir14Souri)
+- [Saeed Forati Kashani](https://github.com/foratik)
+- [Ali MohammadzadeShabestari](https://github.com/Almolia)
+
